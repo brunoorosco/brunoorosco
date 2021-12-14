@@ -11,6 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![C](https://img.shields.io/badge/-Linguagem_C-05122A?style=flat&logo=c)
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 
 ![brunoorosco's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoorosco&show_icons=true&theme=merko)
 
