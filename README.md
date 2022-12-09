@@ -1,9 +1,10 @@
 ## Hi 👋, I’m @brunoorosco
 
-* 🔭 I’m currently working at SENAI-SP
+* 🔭 I’m currently working at Alliar
 </br></br>
 > ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)
 ![NodeJs](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
